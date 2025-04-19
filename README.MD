@@ -61,4 +61,4 @@ Installation is simple! Just Drop the event into your resourses and Ensure Purge
 The script sits idle waiting for the greenlight with either the command or a trigger
 
 Find this script on my tebex store!
-https://www.deadendrp.tebex.io
+https://deadendrp.tebex.io/
