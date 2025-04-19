@@ -5,7 +5,7 @@ Welcome to the Purge! In this event once its triggered either via command or by 
 After the alarm and warning has done ALL NPC's will pull out a random weapon that can be configured in the Config.lua file and start coming after other NPC's and Players. Lock your doors! They will try and pull you from your vehicle or enter your home. They are truely out for blood! 
 
 Command: /togglepurge
-You can start or stop the purge event (admin) with this command. When you end the event, there will be NPC's still agro'd. 
+You can start or stop the purge event (admin) with this command. When you end the event, there will be NPC's still agro'd but no new ones will come. 
 
 Key Features:
 The Alarm brings true emmersion. If you mix it with the thunderstorm weather it truely adds to the experience! The Standalone script is synced across all players and when new players are loading into the server they will be met with the same warning and the NPC's wont attack them until the warning is done. 
